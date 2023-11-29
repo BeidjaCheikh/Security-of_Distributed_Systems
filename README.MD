@@ -71,7 +71,9 @@
 ![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img9.png)
 
 ## withpostman
+
 ### testauth
+
 *  9.  Avec PostMan 
  ```
  - Tester l'authentification avec le mot de passe
@@ -84,4 +86,27 @@ Access Token
 Refresh Token
 ```
 ![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img11.png)
+
+### JWT
+* - Analyser les contenus des deux JWT Access Token et Refresh Token
+
+![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img12.png)
+![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img13.png)
+![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img14.png)
+
+### Refresh_Token
+* - Tester l'authentification avec le Refresh Token
+
+![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img15.png)
+![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img16.png)
+![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img17.png)
+
+### client_id
+* - Tester l'authentification avec Client ID et Client Secret
+![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img18.png)
+
+### access&refreshtoken
+* - Changer les paramètres des Tokens Access Token et Refresh Token
+![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img19.png)
+
 
