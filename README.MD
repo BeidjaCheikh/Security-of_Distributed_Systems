@@ -25,7 +25,7 @@
 ## Overview
 
 ## Keycloak 20
-![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/im1.png)
+![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img1.png)
 
 ## dk
 *  2. Démarrer Keycloak
@@ -35,7 +35,7 @@
 ### admincompte
 *  3. Créer un compte Admin
 
-![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img2.png)
+![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img3.png)
 
 
 ```
