@@ -5,7 +5,7 @@
 [Overview](#overview)
 [Partie 1:](#partie1)
 * 1. [Overview](#overview)
-* 2. [1. Télécharger Keycloak 20](#Keyclock-20)
+* 2. [1. Télécharger Keycloak 20](#Keycloak-20)
 * 3. [2. Démarrer Keycloak](#dk)
 * 4. [3. Créer un compte Admin](#admincompte)
 * 5. [4. Créer une Realm](#realm)
@@ -24,16 +24,13 @@
 
 ## Overview
 
-## Keyclock 20
+## Keycloak 20
 ![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/im1.png)
 
+## dk
+*  2. Démarrer Keycloak
+![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img2.png)
 
-* Spark SQL
-
-
-* Java
-
-## Applications
 ### Incidents SQL
 Nous souhaitons développer une application Spark pour une entreprise industrielle qui traite les incidents de chaque service.
 Les incidents sont stockés dans un fichier CSV.
