@@ -47,6 +47,10 @@
 
 ![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img5.png)
 
+### createuser
+*  6. Créer des utilisateurs
+
+![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img6.png)
 
 ```
 SparkSession ss = SparkSession.builder().appName("TP SQPARKS SQL").master("local[*]").getOrCreate();
