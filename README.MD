@@ -8,8 +8,8 @@
 * 2. [1. Télécharger Keycloak 20](#Keycloak-20)
 * 3. [2. Démarrer Keycloak](#dk)
 * 4. [3. Créer un compte Admin](#admincompte)
-* 5. [4. Créer une Realm](#realm)
-* 6. [5. Créer un client à sécuriser](#securityclient)
+* 5. [4. Créer une Realm](#createRealm)
+* 6. [5. Créer un client à sécuriser](#Create_a_client_to_secure)
 * 7. [6. Créer des utilisateurs](#createuser)
 * 8. [7. Créer des rôles](#createrole)
 * 9. [8. Affecter les rôles aux utilisateurs](#showuserrole)
@@ -36,6 +36,16 @@
 *  3. Créer un compte Admin
 
 ![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img3.png)
+
+### createRealm
+*  4. Créer une Realm
+
+![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img4.png)
+
+### Create_a_client_to_secure
+*  5. Créer un client à sécuriser
+
+![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img5.png)
 
 
 ```
