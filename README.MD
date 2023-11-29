@@ -112,6 +112,6 @@ Refresh Token
 # Partie  2 :
 ### -Sécuriser avec Keycloak les applications Wallet App
 
+![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img20.png)
 ![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img21.png)
 ![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img22.png)
-![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img23.png)
