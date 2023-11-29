@@ -10,8 +10,8 @@
 * 4. [3. Créer un compte Admin](#admincompte)
 * 5. [4. Créer une Realm](#createRealm)
 * 6. [5. Créer un client à sécuriser](#Create_a_client_to_secure)
-* 7. [6. Créer des utilisateurs](#createuser)
-* 8. [7. Créer des rôles](#createrole)
+* 7. [6. Créer des utilisateurs](#createusers)
+* 8. [7. Créer des rôles](#createroles)
 * 9. [8. Affecter les rôles aux utilisateurs](#showuserrole)
 * 10. [9. Avec PostMan :](#withpostman)
         * [- Tester l'authentification avec le mot de passe](#authtest)
@@ -47,16 +47,32 @@
 
 ![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img5.png)
 
-### createuser
+### createusers
 *  6. Créer des utilisateurs
 
 ![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img6.png)
 
+### createroles
+* 7. Créer des rôles
+
+![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img7.png)
+
+### showuserrole
+* 8. Affecter les rôles aux utilisateurs
 ```
-SparkSession ss = SparkSession.builder().appName("TP SQPARKS SQL").master("local[*]").getOrCreate();
-// Lire le fichier CSV des incidents
-Dataset<Row> df1 = ss.read().option("header", true).option("inferSchema", true).csv("incidents.csv");
+
+* roles de l'utilisateur user1.
+
 ```
+![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img8.png)
+
+```
+
+* roles de l'utilisateur cheikh.
+
+```
+![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img9.png)
+
 
 * Afficher le nombre d'incidents par service.
 
