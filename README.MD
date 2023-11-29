@@ -29,13 +29,14 @@
 
 ## dk
 *  2. Démarrer Keycloak
+
 ![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img2.png)
 
-### Incidents SQL
-Nous souhaitons développer une application Spark pour une entreprise industrielle qui traite les incidents de chaque service.
-Les incidents sont stockés dans un fichier CSV.
+### admincompte
+*  3. Créer un compte Admin
 
-![image](https://github.com/BeidjaCheikh/TP_sparkSQL/blob/master/images/img1.png)
+![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img2.png)
+
 
 ```
 SparkSession ss = SparkSession.builder().appName("TP SQPARKS SQL").master("local[*]").getOrCreate();
