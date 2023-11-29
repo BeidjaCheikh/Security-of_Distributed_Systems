@@ -109,4 +109,5 @@ Refresh Token
 * - Changer les paramètres des Tokens Access Token et Refresh Token
 ![image](https://github.com/BeidjaCheikh/Security-of_Distributed_Systems/blob/master/images/img19.png)
 
-
+# Partie  2 :
+### -Sécuriser avec Keycloak les applications Wallet App
